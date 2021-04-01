@@ -10,3 +10,6 @@
 
 ## 3. Java Kubernetes
 #### Construção de um ambiente Kubernetes local.
+
+## 4. E-Commerce c/ Microservices
+#### Solução de e-commerce com a arquitetura de microsserviços aplicando a integração entre eles com Apache Kafka
